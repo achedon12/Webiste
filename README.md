@@ -1,4 +1,4 @@
-## 🧡 Website for seminary week🧡
+## 🧡 Website for seminar week🧡
 
 Website in progess
 
