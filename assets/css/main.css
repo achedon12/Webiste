@@ -197,9 +197,8 @@ input, select, textarea {
 /* Row */
 	.row {
 		display: flex;
-		flex-wrap: wrap;
-		box-sizing: border-box;
-		align-items: stretch;
+  		align-items: center;
+ 		justify-content: center;
 	}
 		.row > * {
 			box-sizing: border-box;
