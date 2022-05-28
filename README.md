@@ -13,7 +13,7 @@ Website in progess
 
 ## Webiste link
 
-[Lien vers notre site web](https://achedon12.github.io/Webiste/index.html)
+[Lien vers notre site web](https://achedon12.github.io/Webiste)
 
 ## Informations
 
